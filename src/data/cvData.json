@@ -1,0 +1,63 @@
+{
+	"profile": {
+		"name": "Artem K.",
+		"title": "Web Developer",
+		"avatar": "assets/profile-pic.png"
+	},
+	"contact": {
+		"email": "dev@example.com",
+		"phone": "+380123456789",
+		"location": "Ukraine"
+	},
+	"skills": [
+		"HTML",
+		"CSS",
+		"JavaScript",
+		"Bootstrap",
+		"React",
+		"Git",
+		"WordPress",
+		"PHP",
+		"Figma"
+	],
+	"social": [
+		{
+			"name": "Github",
+			"url": "#"
+		},
+		{
+			"name": "LinkedIn",
+			"url": "#"
+		}
+	],
+	"certificates": [
+		"Udemy - WordPress Development",
+		"Epam - Basic Frontend",
+		"IT Step - Frontend Development"
+	],
+	"about": "I am a web developer specializing in WordPress and React. I build responsive, modern websites with a focus on speed, SEO, and user experience.",
+	"experience": [
+		{
+			"period": "2023–2025",
+			"position": "Freelance",
+			"description": "Developed WordPress websites for small businesses, integrated plugins, and optimized performance."
+		},
+		{
+			"period": "2022–2025",
+			"position": "Private Clients",
+			"description": "Developed and maintained websites for private clients, including custom functionality and design."
+		}
+	],
+	"projects": [
+		{
+			"name": "Services Finder (WordPress + Leaflet)",
+			"description": "Developed a website to locate optical companies using an interactive Leaflet map.",
+			"link": "#"
+		},
+		{
+			"name": "Booking Calendar (FullCalendar + PHP)",
+			"description": "Designed and implemented a medical appointment booking system with FullCalendar"
+		}
+	],
+	"education": "Self-education (courses, practice, documentation), Udemy, Google for Developers, React/WordPress documentation."
+}
